@@ -6,7 +6,7 @@ public class main3 {
     public static void main(String args[])
     {
 
-        // Creating and initializing custom character
+        // Creating and initializing custom characterdrkjlbgjlsdbgjlb
         char a = 'G';
 
         // Integer data type is generally

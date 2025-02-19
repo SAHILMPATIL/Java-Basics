@@ -23,7 +23,7 @@ public class Mian2 {
     
         public static void main(String[] args) {
             int[] arr = {2, 5, 8, 12, 16, 23, 38, 45, 56, 72};
-            int target = 23;
+            int target = 56;
     
             int result = binarySearch(arr, target);
             if (result != -1)
